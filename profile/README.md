@@ -8,8 +8,34 @@
 <br/>
 
 ## 📑 목차
-1. [🏗️ 아키텍처 구조](#%EF%B8%8F-아키텍처-구조)
-2. [👥 틈틈잇을 만든 사람들](#-틈틈잇을-만든-사람들)
+1. [💡 About Project](#-about-project)
+2. [✨ Key Features](#-key-features)
+3. [🏗️ 아키텍처 구조](#%EF%B8%8F-아키텍처-구조)
+4. [🛠️ Tech Stack](#%EF%B8%8F-tech-stack)
+5. [👥 틈틈잇을 만든 사람들](#-틈틈잇을-만든-사람들)
+
+<br/>
+
+## 💡 About Project
+**틈틈잇: TeumTeumEat**은 무의미하게 흘려보내는 출퇴근/통학 자투리 시간을 성장의 기회로 바꿔주는 **AI 기반 퀴즈 서비스**입니다.
+<br/>
+바쁜 현대인들이 따로 시간을 내지 않아도, **이동 시간에 딱 맞는 분량**으로 지식을 섭취할 수 있도록 돕습니다. 
+<br/>
+사용자가 관심 있는 IT 주제를 선택하거나 전공 서적(PDF)을 업로드하면, AI가 이를 분석해 **요약글, 퀴즈** 형태로 가공하여 출근 시간마다 '냠냠 지식'을 배달해줍니다!
+
+## ✨ Key Features
+### 📚 1. AI 기반 맞춤형 학습 콘텐츠 생성
+* **PDF 분석:** 전공 서적이나 논문 PDF를 업로드하면 AI가 핵심 내용을 분석하여 일일 학습 분량으로 쪼개줍니다.
+* **카테고리 큐레이션:** 프론트엔드, 백엔드 등 관심 분야를 설정하면 목표 기간동안 매일 새로운 지식이 제공됩니다.
+
+### 🧩 2. 매일 도착하는 '냠냠 지식' & 퀴즈
+* **마이크로 러닝:** 사용자가 설정한 이동 시간(3분/5분/7분)에 맞춰 부담 없는 분량의 요약본을 제공합니다.
+* **학습 확인:** O/X 퀴즈나 객관식 문제를 통해 학습한 내용을 즉시 점검하고 히스토리에 보관합니다.
+
+### 🐣 3. 학습 기록과 성장
+* **캐릭터 성장:** 퀴즈를 풀고 지식을 먹여줄 때마다 '틈틈잇' 캐릭터의 기분이 좋아지고 배가 부른 모션으로 변합니다.
+* **스탬프 & 스트릭:** 매일 학습을 완료하면 캘린더에 스탬프가 찍히며, 연속 학습(Streak)을 통해 성취감을 시각화합니다.
+* **푸시 알림:** 사용자의 출퇴근 시간에 맞춰 "지금 숏츠 보고 있나요?"와 같은 센스 있는 알림으로 리마인드 해줍니다.
 
 <br/>
 
@@ -17,10 +43,15 @@
  <img width="1936" height="1214" alt="틈틈잇 아키텍처 구조(README)" src="https://github.com/user-attachments/assets/58450d02-5549-40a6-8192-b460a696b589" />
 
 <br/>
+<br/>
 
 ## 🛠️ Tech Stack
 ### iOS
-### AOS
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white) 
+
+### Android
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) 
+
 ### Backend
 ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
