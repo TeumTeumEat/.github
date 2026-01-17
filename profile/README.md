@@ -48,7 +48,9 @@
 
 ## 🛠️ Tech Stack
 ### iOS
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white) 
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white)
+![TCA](https://img.shields.io/badge/TCA-The_Composable_Architecture-000000?style=for-the-badge)
+![Xcode](https://img.shields.io/badge/Xcode_16.4-147EFB?style=for-the-badge&logo=xcode&logoColor=white) ![iOS](https://img.shields.io/badge/iOS_17.0+-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Android
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) 
