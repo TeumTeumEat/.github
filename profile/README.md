@@ -5,15 +5,37 @@
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/kr/app/%ED%8B%88%ED%8B%88%EC%9E%87/id6757255726)
 [![Google Play](https://img.shields.io/badge/Google_Play-41FE8D?style=for-the-badge&logo=google-play&logoColor=white)](플레이스토어_링크_주소)
 
+<br/>
 
 ## 📑 목차
 1. [🏗️ 아키텍처 구조](#%EF%B8%8F-아키텍처-구조)
 2. [👥 틈틈잇을 만든 사람들](#-틈틈잇을-만든-사람들)
 
+<br/>
 
 ## 🏗️ 아키텍처 구조
  <img width="1936" height="1214" alt="틈틈잇 아키텍처 구조(README)" src="https://github.com/user-attachments/assets/58450d02-5549-40a6-8192-b460a696b589" />
 
+<br/>
+
+## 🛠️ Tech Stack
+### iOS
+### AOS
+### Backend
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Infrastructure & Deploy
+![Naver Cloud](https://img.shields.io/badge/Naver_Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### External API & Services
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase_Messaging-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white) ![Naver OCR](https://img.shields.io/badge/Naver_OCR-03C75A?style=for-the-badge&logo=naver&logoColor=white)
+
+### Monitoring & Tools
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+<br/>
  
 ## 👥 틈틈잇을 만든 사람들
 | PM 김주영 | BE 김지민 | BE 이효재 |
