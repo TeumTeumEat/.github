@@ -1,4 +1,5 @@
 <img width="1024" height="500" alt="1024_500_graphic_image_2x" src="https://github.com/user-attachments/assets/9503e4d4-ebec-4df6-940a-7dfb77eeea43" />
+<img width="7840" height="2796" alt="image" src="https://github.com/user-attachments/assets/89910dde-b2c4-48be-a94c-9a41ffa27274" />
 
 
 ## 📥 앱 다운로드
@@ -10,14 +11,14 @@
 ## 📑 목차
 1. [💡 About Project](#-about-project)
 2. [✨ Key Features](#-key-features)
-3. [🏗️ 아키텍처 구조](#%EF%B8%8F-아키텍처-구조)
+3. [🏗️ Architecture](#%EF%B8%8F-architecture)
 4. [🛠️ Tech Stack](#%EF%B8%8F-tech-stack)
 5. [👥 틈틈잇을 만든 사람들](#-틈틈잇을-만든-사람들)
 
 <br/>
 
 ## 💡 About Project
-**틈틈잇: TeumTeumEat**은 무의미하게 흘려보내는 출퇴근/통학 자투리 시간을 성장의 기회로 바꿔주는 **AI 기반 퀴즈 서비스**입니다.
+**틈틈잇 TeumTeumEat**은 무의미하게 흘려보내는 출퇴근/통학 자투리 시간을 성장의 기회로 바꿔주는 **AI 기반 퀴즈 서비스**입니다.
 <br/>
 바쁜 현대인들이 따로 시간을 내지 않아도, **이동 시간에 딱 맞는 분량**으로 지식을 섭취할 수 있도록 돕습니다. 
 <br/>
@@ -39,7 +40,7 @@
 
 <br/>
 
-## 🏗️ 아키텍처 구조
+## 🏗️ Architecture
  <img width="1936" height="1214" alt="틈틈잇 아키텍처 구조(README)" src="https://github.com/user-attachments/assets/58450d02-5549-40a6-8192-b460a696b589" />
 
 <br/>
