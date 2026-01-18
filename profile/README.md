@@ -79,5 +79,5 @@
 
 | AOS 강병수 | iOS 임재현 | Design 김은성 | Design 이소민 |
 |:-:|:-:|:-:|:-:|
-| <img src="https://avatars.githubusercontent.com/u/81085595?v=4" width="80"/> | <img src="https://avatars.githubusercontent.com/u/246000450?s=200&v=4" width="80"/> | <img src="https://avatars.githubusercontent.com/u/246000450?s=200&v=4" width="80"/> | <img src="https://avatars.githubusercontent.com/u/246000450?s=200&v=4" width="80"/> |
+| <img src="https://avatars.githubusercontent.com/u/81085595?v=4" width="80"/> | <img src="https://avatars.githubusercontent.com/u/115773990?v=4" width="80"/> | <img src="https://avatars.githubusercontent.com/u/246000450?s=200&v=4" width="80"/> | <img src="https://avatars.githubusercontent.com/u/246000450?s=200&v=4" width="80"/> |
 | [@BPT0](https://github.com/BPT0) | [@LimJaeHyeon9298](https://github.com/LimJaeHyeon9298) | - | - |
