@@ -4,7 +4,7 @@
 
 ## 📥 앱 다운로드
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/kr/app/%ED%8B%88%ED%8B%88%EC%9E%87/id6757255726)
-[![Google Play](https://img.shields.io/badge/Google_Play-41FE8D?style=for-the-badge&logo=google-play&logoColor=white)](플레이스토어_링크_주소)
+[![Google Play](https://img.shields.io/badge/Google_Play-41FE8D?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.teumteumeat.teumteumeat&hl=ko)
 
 <br/>
 
