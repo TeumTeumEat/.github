@@ -53,7 +53,19 @@
 ![Xcode](https://img.shields.io/badge/Xcode_16.4-147EFB?style=for-the-badge&logo=xcode&logoColor=white) ![iOS](https://img.shields.io/badge/iOS_17.0+-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Android
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-34A853?style=for-the-badge&logo=google&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flow](https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
+![OkHttp](https://img.shields.io/badge/OkHttp-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![FCM](https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase Analytics](https://img.shields.io/badge/Firebase%20Analytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+![MVVM](https://img.shields.io/badge/MVVM-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-00ACC1?style=for-the-badge&logo=android&logoColor=white)
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
