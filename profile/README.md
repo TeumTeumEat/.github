@@ -1,5 +1,5 @@
 <img width="1024" height="500" alt="1024_500_graphic_image_2x" src="https://github.com/user-attachments/assets/9503e4d4-ebec-4df6-940a-7dfb77eeea43" />
-<img width="7840" height="2796" alt="image" src="https://github.com/user-attachments/assets/89910dde-b2c4-48be-a94c-9a41ffa27274" />
+<img width="7840" alt="image" src="https://github.com/user-attachments/assets/89910dde-b2c4-48be-a94c-9a41ffa27274" />
 
 
 ## 📥 앱 다운로드
